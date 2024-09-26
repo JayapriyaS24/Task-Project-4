@@ -46,7 +46,11 @@ form button {
     color: white;
     border: none;
     cursor: pointer;
+    
+    
 }
+
+
 
 .filters {
     display: flex;
@@ -85,6 +89,7 @@ li button {
     border: none;
     cursor: pointer;
     padding: 5px 10px;
+    
 }
 
 @media (max-width: 768px) {
